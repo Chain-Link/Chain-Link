@@ -1,4 +1,4 @@
-# Chain Expression Language Definitions
+# Chain-Link Expression Language Definitions
 - Version 1.0
 - Updated 15 JAN 16
 
@@ -23,8 +23,6 @@ AND
 ### List of Connectors
 - AND
 - OR
-
-
 
 ## Precedence Operators
 The only current Precedence Operator are parentheses ``` () ```.
