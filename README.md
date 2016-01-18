@@ -3,7 +3,36 @@
 - Version 1.0
 - Updated 15 JAN 16
 
-Chain-Link is a domain specific language (DSL) specification for a rules expression language. The goal of Chain-Link is to allow the cross-language (e.g., PHP, Python, etc) expression of logical rules. Such expressions of rules and chains of rules allow for the generic implementation of application libraries and services such as validation, event triggering, and auto generation.  
+Chain-Link is a domain specific language (DSL) specification for a rules expression language. The goal of Chain-Link is to allow the cross-language (e.g., PHP, Python, etc) expression of logical rules. Such expressions of rules and chains of rules allow for the generic implementation of application libraries and services such as validation, event triggering, and auto generation.
+
+## Example
+The Chain-Link DSL is a simple language to define a chain of rules that as a group evaluate to true or false.
+```
+"( RuleName AND RuleName ) OR RuleName"
+```
+
+## Specifications
+The list of specifications for Chain-Link and its associated parts.
+ - [General Definitions](/Definitions)
+ - [Chain-Link Language Definition](/Chain-Link Expression Language Definition)
+ - [Rule Example](/Rule Example)
+ - [Chain Example](/Chain Example)
+
+## Language Implementation Standards
+A list of repositories containing unit tests in specific programming languages to evaluate specific implementations as meeting the Chain-Link specifications.
+- [Chain-Link Specific Implementation Standards](/Chain-Link Specific Implementation Standards)
+
+## Individual Packages
+A list of packages that are compliant with the Chain-Link specifications grouped by specific programming language.
+- [Chain-Link Compliant Packages](/Chain-Link Compliant Packages)
+
+## Contributing
+The guide to contributing to Chain-Link.
+- [Contributing](/Contributing)
+
+## Roadmap
+The guide to contributing to Chain-Link.
+- [Roadmap](/Roadmap)
 
 
 ### Attributions:
