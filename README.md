@@ -1,7 +1,7 @@
---add image here
+![Chain-Link Logo](/logos/logo w500.png)
 # Chain-Link
 
-Chain-Link is a domain specific language (DSL) specification for a rules expression language. The goal of Chain-Link is to allow the cross-language (e.g., PHP, Python, etc) expression of logical rules. Such expressions of rules and chains of rules allow for the generic implementation of generic application libraries and services such as validation, event triggering, and auto generation.  
+Chain-Link is a domain specific language (DSL) specification for a rules expression language. The goal of Chain-Link is to allow the cross-language (e.g., PHP, Python, etc) expression of logical rules. Such expressions of rules and chains of rules allow for the generic implementation of application libraries and services such as validation, event triggering, and auto generation.  
 
 
 ### Attributions:
