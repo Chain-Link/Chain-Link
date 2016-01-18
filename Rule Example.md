@@ -1,4 +1,6 @@
 # Rule Example
+- Version 1.0
+- Updated 15 JAN 16
 
 ```
 {
