@@ -34,7 +34,7 @@ Logical Connectors shall be all Upper Case.
 AND
 ```
 
-### List of Connectors
+### List Logical of Connectors
 - AND
 - OR
 
