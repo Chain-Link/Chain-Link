@@ -1,5 +1,5 @@
 # Chain-Link Expression Language Specification
-- Version 1.1.0
+- Version 1.2.0
 - Updated 20 JAN 16
 
 
