@@ -1,4 +1,5 @@
 # Versioning
+- Updated 20 JAN 16
 
 Chain-Link follows a Semantic Versioning system according to the Semantic Versioning Scheme at [semver.org](www.semver.org)
 
