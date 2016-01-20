@@ -1,6 +1,6 @@
-# Chain-Link Expression Language Definitions
-- Version 1.0
-- Updated 15 JAN 16
+# Chain-Link Expression Language Specification
+- Version 1.1.0
+- Updated 20 JAN 16
 
 
 ## Rules

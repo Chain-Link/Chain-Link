@@ -1,6 +1,6 @@
 # Rule Example
-- Version 1.0
-- Updated 15 JAN 16
+- Version 1.1.0
+- Updated 20 JAN 16
 
 ```
 {

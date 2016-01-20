@@ -1,6 +1,6 @@
 # Definitions
-- Version 1.0
-- Updated 15 JAN 16
+- Version 1.1.0
+- Updated 20 JAN 16
 
 ## Rule
 A Rule is a simple True/False evaluation statement with one or more parameters. A Rule defines the statement to be parameters to be evaluated by an implementation function. A Rule may be contained inside of a json file or an array.
