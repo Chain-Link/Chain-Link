@@ -14,9 +14,9 @@ The Chain-Link DSL is a simple language to define a chain of rules that as a gro
 ## Specifications
 The list of specifications for Chain-Link and its associated parts.
  - [General Definitions](Definitions.md)
- - [Chain-Link Language Specification](./Chain-Link Expression Language Specification.md)
- - [Rule Example](./Rule Example)
- - [Chain Example](./Chain Example)
+ - [Chain-Link Language Specification](Chain-Link Expression Language Specification.md)
+ - [Rule Example](Rule Example.md)
+ - [Chain Example](Chain Example.md)
 
 ## Language Implementation Standards
 A list of repositories containing unit tests in specific programming languages to evaluate specific implementations as meeting the Chain-Link specifications.
@@ -24,19 +24,19 @@ A list of repositories containing unit tests in specific programming languages t
 
 ## Individual Packages
 A list of packages that are compliant with the Chain-Link specifications grouped by specific programming language.
-- [Chain-Link Compliant Packages](./Chain-Link Compliant Packages)
+- [Chain-Link Compliant Packages](Chain-Link Compliant Packages.md)
 
 ## Contributing
 The guide to contributing to Chain-Link.
-- [Contributing](./Contributing)
+- [Contributing](Contributing.md)
 
 ## Versioning
 The guide to Chain-Link version numbering.
-- [Versioning](./Versioning.md)
+- [Versioning](Versioning.md)
 
 ## Roadmap
 The guide to contributing to Chain-Link.
-- [Roadmap](./Roadmap)
+- [Roadmap](Roadmap.md)
 
 
 ### Attributions:
