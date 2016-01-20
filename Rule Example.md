@@ -43,7 +43,7 @@
 
 ## Calling Example
 ```
-  Ruled::eval('Equal Strings', ['Expected Name' => 'Bob', 'Input Name' => $input]);
+  Rule::evaluate('Equal Strings', ['Expected Name' => 'Bob', 'Input Name' => $input]);
 ```
 
 If input is Bob the rule eval returns true else it returns false. A chain is called the same way but with more required parameters.
