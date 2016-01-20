@@ -13,7 +13,7 @@ The Chain-Link DSL is a simple language to define a chain of rules that as a gro
 
 ## Specifications
 The list of specifications for Chain-Link and its associated parts.
- - [General Definitions](./Definitions)
+ - [General Definitions](Definitions)
  - [Chain-Link Language Specification](/Chain-Link Expression Language Specification)
  - [Rule Example](./Rule Example)
  - [Chain Example](./Chain Example)
