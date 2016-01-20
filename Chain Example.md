@@ -1,5 +1,5 @@
 # Chain Example
-- Version 1.1.0
+- Version 1.2.0
 - Updated 20 JAN 16
 
 A Chain is a group of Rules and their required parameters.
