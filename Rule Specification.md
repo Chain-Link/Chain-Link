@@ -9,7 +9,7 @@
 
 3. The first parameter SHALL be the string containing the Rule Name
 
-4. The second parameter SHALL be a key value array of parameters.
+4. The second parameter SHALL be a key value array of parameters, and MAY be a multi-demensional array (see 4.C).
 
   A. The first key value pair SHALL be the Rules expected value.
 
