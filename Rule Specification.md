@@ -11,7 +11,7 @@
 
 4. The second parameter SHALL be a key value array of parameters.
 
-  A. The first key value pair SHALL be the rules expected value.
+  A. The first key value pair SHALL be the Rules expected value.
 
   B. The second key value pair SHALL be the value to be evaluated.
 
